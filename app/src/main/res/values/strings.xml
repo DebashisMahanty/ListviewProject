@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListviewProject</string>
+
+    <string-array name="actors">
+        <item>salman khan</item>
+        <item>akshy kumar</item>
+        <item>karthik ariyan</item>
+        <item>hritik roshon</item>
+        <item>saharuk khan</item>
+        <item>amir khan</item>
+        <item>nawazuddin siddi</item>
+        <item>tiger</item>
+        <item>ranbir</item>
+        <item>varun</item>
+    </string-array>
+
+</resources>
